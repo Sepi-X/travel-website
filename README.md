@@ -19,8 +19,8 @@ A full-stack travel booking platform. Customers can explore destinations, book t
 ## Run it
 
 ```bash
-git clone https://github.com/Sepi-X/Travel-Website.git
-cd Travel-Website
+git clone https://github.com/Sepi-X/travel-website.git
+cd travel-website
 docker compose up --build
 ```
 
